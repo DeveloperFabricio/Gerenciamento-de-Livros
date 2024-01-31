@@ -1,4 +1,4 @@
-Neste projeto criamos um Sistema de Gerenciamento de Livros (Console) onde é possível:
+Neste projeto criei um Sistema de Gerenciamento de Livros (Console) onde é possível:
 
 - Cadastrar um Livro.
 - Validar Dados. 
